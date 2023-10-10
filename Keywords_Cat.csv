@@ -1,0 +1,504 @@
+﻿Group;Keywords
+Risk;risk
+Risk;risk analysis
+Risk;risk assessment
+Risk;risk area
+Risk;risk groups
+Risk;risk management
+Risk;fire risks
+Fire;fire risks
+Fire;fire conditions
+Fire;fire hazards
+Fire;fire load
+Fire;fire protection
+Fire;fire protection measures
+Fire;fire resistance
+Fire;fire safety
+Fire;fire safety in buildings
+Fire;fire spread prevention
+Fire;firefighting
+Data;data
+Data;data acquisition
+Data;data exchange
+Data;data formats
+Data;reliability data
+Data;technical data sheets
+Data;Data
+Data;data structures
+Data;product data
+Data;Data
+Data;data exchange
+Data;data formats
+Data;data management
+Data;influence factors
+Data;data models
+Data;data records
+Data;Metadata
+Data;Diagrams
+Data;data exchange
+Data;data field
+Data;data processing
+Data;data analysis
+Data;exchange
+Data;data transmission
+Data;calculation
+Data;calibration
+Data;data types
+Wind;winds
+Wind;wind power
+Wind;wind turbines
+Wind;wind-electric power stations
+Wind;wind power stations
+Wind;wind turbine generator systems
+Wind;wind-powered devices
+Wind;wind farms
+Wind;wind loading
+Testing;testing
+Testing;mechanical testing
+Testing;testing conditions
+Testing;acoustic testing
+Testing;electrical testing
+Testing;conformity testing
+Electrical;electrical engineering
+Electrical;electrical
+Electrical;electrical equipment
+Electrical;electrical installations
+Electrical;electrical properties
+Electrical;electrical properties and phenomena
+Electrical;electrical protection equipment
+Electrical;electric power systems
+Electrical;grids
+Electrical;cabling
+Electrical;electrical safety
+Information;information interchange
+Information;information technology
+Information;traffic and traveller information
+Information;information exchange
+Information;user information
+Information;building information modeling
+Information;geographic information systems
+Information;information
+Information;information management
+Information;information models
+Information;information representation
+Information;information handling
+Information;information transfer
+Safety;safety of machinery
+Safety;safety
+Safety;instructions
+Safety;distress
+Safety;disasters
+Safety;operational safety
+Safety;safety engineering
+Safety;safety requirements
+Safety;space safety
+Safety;danger potentials
+Safety;danger
+Safety;accident prevention
+Safety;damage prevention
+Safety;hazard removal
+Safety;hazards
+Safety;checks
+Safety;hazard prevention in buildings
+Safety;safety verification
+Safety;collisions (accident)
+Safety;standards
+Safety;surveillance (approval)
+Safety;purpose of protection
+Safety;explosions
+Safety;rescue
+Safety;safety measures
+Specification;specification
+Specification;eurocode
+Specification;specifications
+Specification;specification (approval)
+Specification;guide books
+Specification;codification
+Specification;guidelines
+Specification;criterion
+Specification;dimensioning
+Specification;design
+Specification;generic specification
+Power;Power
+Power;power generation
+Power;power supply system
+Power;power generating plant
+Power;power measurement
+Power;power measurement (electric)
+Power;sound power
+Power;power station engineering
+Power;active power
+Power;electric power stations
+Power;power generating installation
+Power;solar power
+Power;water power
+Maintenance;maintenance
+Maintenance;maintainability
+Maintenance;maintenance work
+Maintenance;maintenance cost
+Mechanical;bending strength
+Mechanical;mechanical interfaces
+Mechanical;mechanical hazards
+Mechanical;mechanical engineering
+Mechanical;mechanical load
+Mechanical;machines
+Mechanical;rotors
+Mechanical;shock
+Mechanical;shock resistance
+Mechanical;mechanical properties
+Vibration;vibration
+Vibration;vibration engineering
+Vibration;vibration measurement
+Vibration;vibration resistance tests
+Vibration;vibration severity
+Vibration;vibration tests
+Vibration;machine vibration
+Condition;condition monitoring
+Condition;environmental condition
+Condition;operating conditions
+Condition;condition tests
+Condition;general conditions
+Condition;condition
+Condition;defects
+Condition;environmental conditions
+Documentation;documentation
+Documentation;documentation systematics
+Documentation;products documentation
+Documentation;documentation systematics
+Measur;measurement
+Measur;measuring techniques
+Measur;acoustic measurement
+Measur;noise measurement
+Measur;measurement set-up
+Measur;measuring results
+Measur;measuring equipment
+Measur;sound level
+Measur;sound propagation
+Measur;protective measures
+Performance;performance
+Performance;machine performances
+Performance;performance tests
+Construction;construction
+Construction;transport facilities (construction works)
+Construction;construction works
+Construction;offshore construction works
+Construction;erecting (construction operation)
+Construction;construction operations
+Construction;structural design
+Construction;structural engineering drawings
+Construction;structural works
+Construction;erection
+Construction;structure
+Construction;structures
+Construction;structuring
+Construction;buildings
+Construction;constructional products
+Energy;energy
+Energy;energy economy
+Energy;energy management
+Energy;energy storage
+Energy;energy storage devices
+Energy;energy supply systems (buildings)
+Energy;energy technology
+Energy;Impulses
+Energy;impact
+Energy;impacts
+Energy;turbogenerators
+Energy;renewable energy
+Reliability;reliability
+Reliability;reliability management
+Managment;document management
+Managment;project management
+Managment;management
+Managment;asset management
+Managment;industrial management
+Managment;quality management
+Managment;dependability management
+Managment;financial management
+Managment;management systems
+Managment;office management
+Managment;security management
+Temperatur;thermal
+Temperatur;thermal environment
+Temperatur;thermal stress
+Temperatur;high temperatures
+Temperatur;maximum temperatures
+Temperatur;temperature control
+Temperatur;temperature range
+Temperatur;high temperature
+Temperatur;temperature
+Electricity;smart grid
+Electricity;electric generators
+Electricity;protection against electric shocks
+Electricity;electric machines
+Electricity;distribution of electricity
+Electricity;electrochemistry
+Electricity;generators
+Electricity;voltage
+Electricity;voltage dips
+Electricity;output capacity
+Electricity;rotating electric machines
+Network;network protection
+Network;network
+Network;networking
+Network;circuit networks
+Network;intelligent networks
+System;systemology
+System;quality assurance systems
+System;communication systems
+System;identification system
+System;systematics
+System;intelligent transport systems
+System;open systems interconnection
+System;road systems
+System;supply systems
+System;stress
+System;installation
+System;Integration
+System;conformity
+System;telematics
+System;functional capability
+System;classification systems
+Definition;definitions
+Analysis;methods of analysis
+Analysis;cost benefit analysis
+Analysis;diagnosis
+Analysis;analysis
+Analysis;evaluations
+Analysis;effectiveness
+Analysis;efficiency
+Analysis;improvement
+Analysis;methods
+Analysis;identification
+Analysis;optimization
+Analysis;effects
+Analysis;size classification
+Analysis;hazard analysis
+Technical;technology
+Technical;assessment of technological consequences
+Technical;communication technology
+Technical;control technology
+Technical;technical documents
+Technical;space technology
+Technical;technical installations
+Technical;harmonization
+Technical;harmonized
+Technical;technical products
+Space;aerospace transport
+Space;space vehicles
+Space;spacecraft
+Space;spacecraft instruments
+Space;outer space
+Quality;quality assurance
+Quality;quality
+Quality;examination (quality assurance)
+Quality;marking
+Quality;marks
+Quality;quality control
+Test;test results
+Test;rating tests
+Test;inspection
+Test;compatibility tests
+Software;computer software
+Software;software
+Industrial;industrial facilities
+Industrial;industrial plants
+Industrial;industries
+Industrial;natural gas industries
+Industrial;oil industries
+Models;models
+Models;modeling
+Models;modeling lenguage
+Models;metamodel
+Models;patterns
+Models;Patterns
+Models;unified modeling language 
+Planning & Oranization;planning
+Planning & Oranization;plans
+Planning & Oranization;resources
+Planning & Oranization;Decree
+Planning & Oranization;Classes
+Planning & Oranization;classification
+Planning & Oranization;equipment
+Planning & Oranization;organization
+Process;process
+Process;procedure of project
+Process;business processes
+Process;procedures
+Process;process control
+Process;teleprocessing
+Application & Mapping;applicability
+Application & Mapping;computer applications
+Application & Mapping;applications
+Application & Mapping;railway applications
+Application & Mapping;implementation
+Application & Mapping;mapping
+Specific Industry;offshore
+Specific Industry;railway installations
+Specific Industry;railway operation
+Specific Industry;railways
+Specific Industry;cryogenics
+Specific Industry;turbines
+Specific Industry;onshore
+Specific Industry;rail tracks
+Specific Industry;lightning protection
+Specific Industry;natural gas
+Specific Industry;flatwork ironers
+Specific Industry;petroleum
+Specific Industry;public transport
+Specific Industry;acoustic signals
+Specific Industry;acoustics
+Specific Industry;short-distance traffic
+Specific Industry;petrochemistry
+Specific Industry;bridges
+Specific Industry;rail transport
+Control;control equipment
+Control;net-control stations
+Control;control engineering
+Control;traffic control
+Control;engines
+Control;observation
+Control;behaviour
+Mechanical;engineers
+Mechanical;axles
+Mechanical;Mechanic
+Mechanical;mechanics
+Mechanical;gear boxes
+Mechanical;elements
+Mechanical;gearing
+Mechanical;stability
+Mechanical;axis of rotation
+Enviroment;enviroment
+Enviroment;environmental aspects
+Enviroment;civil engineering
+Enviroment;compatibility
+Enviroment;sustainability
+Enviroment;infrastructure
+Enviroment;climate
+Enviroment;distinguishing signs
+Enviroment;developments
+Enviroment;culture
+Enviroment;cultivation
+Enviroment;cultural elements
+Enviroment;locations
+Enviroment;environment (working)
+Economics & Law & Logistic;Money
+Economics & Law & Logistic;selling 
+Economics & Law & Logistic;taxes
+Economics & Law & Logistic;markets (economy)
+Economics & Law & Logistic;economics
+Economics & Law & Logistic;law
+Economics & Law & Logistic;availability
+Economics & Law & Logistic;Delivery
+Economics & Law & Logistic;Demand
+Economics & Law & Logistic;mains supply
+Economics & Law & Logistic;logistics
+IT;simulation
+IT;cyber security
+IT;encoding
+IT;architecture (it)
+IT;it security
+IT;computation
+IT;computer hardware
+IT;XML
+IT;uml
+IT;framework
+IT;hardware
+IT;interfaces
+IT;extensible markup language
+IT;datex services
+IT;reliability related program
+IT;digitalization
+Monitoring &  durability & Life;monitoring
+Monitoring &  durability & Life;life (durability)
+Monitoring &  durability & Life;durability
+Monitoring &  durability & Life;repair
+Monitoring &  durability & Life;life cycles
+Operation;logic operation
+Operation;operation
+Operation;further operating
+Operation;operation manuals
+Concepts & Components ;Components
+Concepts & Components ;Concepts
+Company ;contracs
+Company ;commissioning
+Company ;competence
+Company ;communication
+Company ;cost
+Company ;documents
+Company ;enterprises
+Company ;establishment
+Company ;finance
+Company ;money
+Company ;internal politics
+Company ;international
+Company ;international agreements
+Company ;investments
+Company ;Languages
+Company ;personnel
+Company ;plans
+Company ;presentations
+Company ;Principles
+Company ;products
+Company ;project
+Company ;properties
+Company ;property insurance
+Company ;protocols
+Company ;ratings
+Company ;records  
+Company ;records (documents)
+Company ;road transport
+Company ;shortage
+Company ;status
+Company ;surveys
+Company ;supply schedule
+Company ;training
+Company ;vocabulary
+Company ;use
+Company ;decision-making
+Company ;users
+Company ;administration
+Company ;insolvencies
+Company ;assets
+Company ;cooperation
+Company ;integrity
+Company ;representations
+Company ;coordination
+Company ;verification
+Unspecific Key Words;mathematical calculations
+Unspecific Key Words;nursing
+Unspecific Key Words;bond
+Unspecific Key Words;Syntax
+Unspecific Key Words;Templates
+Unspecific Key Words;terminology
+Unspecific Key Words;Texture
+Unspecific Key Words;timers
+Unspecific Key Words;traffic
+Unspecific Key Words;trusses
+Unspecific Key Words;tti
+Unspecific Key Words;scales
+Unspecific Key Words;scope
+Unspecific Key Words;societal resilience
+Unspecific Key Words;Semantics
+Unspecific Key Words;shaping
+Unspecific Key Words;sheets
+Unspecific Key Words;basis
+Unspecific Key Words;Bim
+Unspecific Key Words;bodies
+Unspecific Key Words;Originals
+Unspecific Key Words;osi
+Unspecific Key Words;Lay
+Unspecific Key Words;Level
+Unspecific Key Words;Links
+Unspecific Key Words;suitability
+Unspecific Key Words;Gis
+Unspecific Key Words;nets
+Unspecific Key Words;permanency
+Unspecific Key Words;mission
+Unspecific Key Words;degradation
+Unspecific Key Words;inserts
+Unspecific Key Words;Catalogues
+Unspecific Key Words;characteristics
+Unspecific Key Words;Activity
+Unspecific Key Words;extensions
+Unspecific Key Words;ingredients

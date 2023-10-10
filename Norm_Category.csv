@@ -1,0 +1,111 @@
+Category;Norm;R_Category_Norm;R_Norm_Category
+General;DIN EN 17473;is_discussed_in;has_topic
+Modelling and Data Collection;DIN EN 17473;is_discussed_in;has_topic
+General;DIN EN 17632;is_discussed_in;has_topic
+Modelling and Data Collection;DIN EN 17632;is_discussed_in;has_topic
+General;"DIN EN 17412-1
+";is_discussed_in;has_topic
+Modelling and Data Collection;"DIN EN 17412-1
+";is_discussed_in;has_topic
+General;ISO 2041 ;is_discussed_in;has_topic
+Modelling and Data Collection;ISO 2041 ;is_discussed_in;has_topic
+General;DIN 77005-X (1) Lifecycle record of technical objects;is_discussed_in;has_topic
+Modelling and Data Collection;DIN 77005-X (1) Lifecycle record of technical objects;is_discussed_in;has_topic
+General;ISO 17359;is_discussed_in;has_topic
+Assessment;ISO 17359;is_discussed_in;has_topic
+Condition;ISO 17359;is_discussed_in;has_topic
+General;DIN CEN/TS 17385;is_discussed_in;has_topic
+Assessment;DIN CEN/TS 17385;is_discussed_in;has_topic
+Condition;DIN CEN/TS 17385;is_discussed_in;has_topic
+General;DIN ISO 13379-x (1);is_discussed_in;has_topic
+Assessment;DIN ISO 13379-x (1);is_discussed_in;has_topic
+Condition;DIN ISO 13379-x (1);is_discussed_in;has_topic
+General;DIN EN 16991;is_discussed_in;has_topic
+Assessment;DIN EN 16991;is_discussed_in;has_topic
+Risk;DIN EN 16991;is_discussed_in;has_topic
+General;DIN EN IEC 62933-5-2;is_discussed_in;has_topic
+Assessment;DIN EN IEC 62933-5-2;is_discussed_in;has_topic
+Risk;DIN EN IEC 62933-5-2;is_discussed_in;has_topic
+General;DIN EN IEC 63223 VDE 0109-101;is_discussed_in;has_topic
+Assessment;DIN EN IEC 63223 VDE 0109-101;is_discussed_in;has_topic
+Risk;DIN EN IEC 63223 VDE 0109-101;is_discussed_in;has_topic
+General;DIN SPEC 91331;is_discussed_in;has_topic
+Assessment;DIN SPEC 91331;is_discussed_in;has_topic
+Risk;DIN SPEC 91331;is_discussed_in;has_topic
+General;DIN EN IEC 62933-5-2;is_discussed_in;has_topic
+Assessment;DIN EN IEC 62933-5-2;is_discussed_in;has_topic
+Risk;DIN EN IEC 62933-5-2;is_discussed_in;has_topic
+General;DIN VDE 0175-110 VDE 0175-110;is_discussed_in;has_topic
+Assessment;DIN VDE 0175-110 VDE 0175-110;is_discussed_in;has_topic
+Risk;DIN VDE 0175-110 VDE 0175-110;is_discussed_in;has_topic
+General;NERC-GADS;is_discussed_in;has_topic
+Assessment;NERC-GADS;is_discussed_in;has_topic
+RAMS;NERC-GADS;is_discussed_in;has_topic
+General;ISO 5500X Asset Management;is_discussed_in;has_topic
+Management;ISO 5500X Asset Management;is_discussed_in;has_topic
+General;DIN EN 16646;is_discussed_in;has_topic
+Management;DIN EN 16646;is_discussed_in;has_topic
+General;DIN EN 17485;is_discussed_in;has_topic
+Management;DIN EN 17485;is_discussed_in;has_topic
+General;DIN ISO 31000;is_discussed_in;has_topic
+Management;DIN ISO 31000;is_discussed_in;has_topic
+General;DIN EN IEC 60300-1 ;is_discussed_in;has_topic
+Management;DIN EN IEC 60300-1 ;is_discussed_in;has_topic
+Wind Energy Specific;DIN EN 61400-25-X;is_discussed_in;has_topic
+Modelling and Data Collection;DIN EN 61400-25-X;is_discussed_in;has_topic
+Wind Energy Specific;DIN EN 61400-13;is_discussed_in;has_topic
+Modelling and Data Collection;DIN EN 61400-13;is_discussed_in;has_topic
+Wind Energy Specific;DIN EN IEC 61400-15-1;is_discussed_in;has_topic
+Modelling and Data Collection;DIN EN IEC 61400-15-1;is_discussed_in;has_topic
+Wind Energy Specific;IEC 61400-10 Noise measurement;is_discussed_in;has_topic
+Modelling and Data Collection;IEC 61400-10 Noise measurement;is_discussed_in;has_topic
+Wind Energy Specific;DIN 6779-10 (2007-04-00) ;is_discussed_in;has_topic
+Modelling and Data Collection;DIN 6779-10 (2007-04-00) ;is_discussed_in;has_topic
+Wind Energy Specific;IEC/TR 61400-12-4;is_discussed_in;has_topic
+Modelling and Data Collection;IEC/TR 61400-12-4;is_discussed_in;has_topic
+Wind Energy Specific;DIN EN IEC 61400-21-x (1);is_discussed_in;has_topic
+Modelling and Data Collection;DIN EN IEC 61400-21-x (1);is_discussed_in;has_topic
+Wind Energy Specific;IEC 61400-27-x (1);is_discussed_in;has_topic
+Modelling and Data Collection;IEC 61400-27-x (1);is_discussed_in;has_topic
+Wind Energy Specific;DIN EN 16603-31-04;is_discussed_in;has_topic
+Condition;DIN EN 16603-31-04;is_discussed_in;has_topic
+Wind Energy Specific;DIN ISO 10816-21;is_discussed_in;has_topic
+Condition;DIN ISO 10816-21;is_discussed_in;has_topic
+Wind Energy Specific;IEC 88/798/CD CEI 88/798/CD IEC/TS 61400-28;is_discussed_in;has_topic
+Risk;IEC 88/798/CD CEI 88/798/CD IEC/TS 61400-28;is_discussed_in;has_topic
+Wind Energy Specific;ANSI/UL 4143;is_discussed_in;has_topic
+Risk;ANSI/UL 4143;is_discussed_in;has_topic
+Wind Energy Specific;BS EN IEC 61400-24:2019;is_discussed_in;has_topic
+Risk;BS EN IEC 61400-24:2019;is_discussed_in;has_topic
+Wind Energy Specific;ReliaWind;is_discussed_in;has_topic
+RAMS;ReliaWind;is_discussed_in;has_topic
+Wind Energy Specific;FGW Teil 7-D2 FGW TR 7 (FGW ZEUS);is_discussed_in;has_topic
+RAMS;FGW Teil 7-D2 FGW TR 7 (FGW ZEUS);is_discussed_in;has_topic
+Wind Energy Specific;DIN EN IEC 61400-26-X (1);is_discussed_in;has_topic
+RAMS;DIN EN IEC 61400-26-X (1);is_discussed_in;has_topic
+Wind Energy Specific;IEC 88/798/CD CEI 88/798/CD IEC/TS 61400-28;is_discussed_in;has_topic
+Management;IEC 88/798/CD CEI 88/798/CD IEC/TS 61400-28;is_discussed_in;has_topic
+Other Industry Specific;DIN EN 16157-1;is_discussed_in;has_topic
+Modelling and Data Collection;DIN EN 16157-1;is_discussed_in;has_topic
+Other Industry Specific;DIN EN 16603-31-04 ;is_discussed_in;has_topic
+Modelling and Data Collection;DIN EN 16603-31-04 ;is_discussed_in;has_topic
+Other Industry Specific;DIN 18009-1;is_discussed_in;has_topic
+Assessment;DIN 18009-1;is_discussed_in;has_topic
+Risk;DIN 18009-1;is_discussed_in;has_topic
+Other Industry Specific;DIN EN 16991;is_discussed_in;has_topic
+Assessment;DIN EN 16991;is_discussed_in;has_topic
+Risk;DIN EN 16991;is_discussed_in;has_topic
+Other Industry Specific;DIN EN 1991-1-7;is_discussed_in;has_topic
+Assessment;DIN EN 1991-1-7;is_discussed_in;has_topic
+Risk;DIN EN 1991-1-7;is_discussed_in;has_topic
+Other Industry Specific;DIN EN 17666;is_discussed_in;has_topic
+Assessment;DIN EN 17666;is_discussed_in;has_topic
+Risk;DIN EN 17666;is_discussed_in;has_topic
+Other Industry Specific;DIN EN ISO 14224;is_discussed_in;has_topic
+Assessment;DIN EN ISO 14224;is_discussed_in;has_topic
+RAMS;DIN EN ISO 14224;is_discussed_in;has_topic
+Other Industry Specific;SN EN 50126-X;is_discussed_in;has_topic
+Assessment;SN EN 50126-X;is_discussed_in;has_topic
+RAMS;SN EN 50126-X;is_discussed_in;has_topic
+Wind Energy Off Shore Risk;BS ISO 29400:2020;is_discussed_in;has_topic
+Wind Energy Off Shore Risk;VdS 3549;is_discussed_in;has_topic
