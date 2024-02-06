@@ -11,35 +11,38 @@ This repository contains the following data files:
 
 
 ```
+In [1]: # Load the data
+   ...: import pandas as pd
+   ...: norm_category_df = pd.read_csv('Norm_Category.csv', delimiter=';')
+   ...: norm_keyword_df = pd.read_csv('Norm_Keyword.csv', delimiter=';')
+   ...: keywords_cat_df = pd.read_csv('Keywords_Cat.csv', delimiter=';')
 
-In [4]: print("Available Categories:")
+In [2]: # Function to list all available categories
+   ...: def list_categories():
+   ...:     return norm_category_df['Category'].unique()
+   ...: 
+   ...: # Function to list all standards for a selected category
+   ...: def list_standards_for_category(category):
+   ...:     return norm_category_df[norm_category_df['Category'] == category]['Norm'].unique()
+   ...: 
+
+In [3]: # print categories
+   ...: print("Available Categories:")
    ...: print(list_categories())
+   ...: 
 Available Categories:
 ['General' 'Modelling and Data Collection' 'Assessment' 'Condition' 'Risk'
  'RAMS' 'Management' 'Wind Energy Specific' 'Other Industry Specific'
  'Wind Energy Off Shore Risk']
 
-In [5]: 
-
-In [5]: selected_category = "Risk"
+In [4]: # print standards for risk category
+   ...: selected_category = "Risk"
    ...: print(f"\nStandards for {selected_category}:")
    ...: print(list_standards_for_category(selected_category))
-   ...: 
 
 Standards for Risk:
 ['DIN EN 16991' 'DIN EN IEC 62933-5-2' 'DIN EN IEC 63223 VDE 0109-101'
  'DIN SPEC 91331' 'DIN VDE 0175-110 VDE 0175-110'
  'IEC 88/798/CD CEI 88/798/CD IEC/TS 61400-28' 'ANSI/UL 4143'
  'BS EN IEC 61400-24:2019' 'DIN 18009-1' 'DIN EN 1991-1-7' 'DIN EN 17666']
-
-In [6]: 
-
-In [6]: selected_standard = 'DIN EN 16991'
-   ...: print(f"\nCategories associated with {selected_standard}:")
-   ...: print(list_categories_for_standard(selected_standard))
-   ...: 
-   ...: 
-
-Categories associated with DIN EN 16991:
-['General' 'Assessment' 'Risk' 'Other Industry Specific']
 ```
