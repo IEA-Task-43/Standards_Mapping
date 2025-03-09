@@ -1,5 +1,7 @@
 This is a repository of data supporting IEA Task 43's Data Standards Gap Analysis
 
+The associated report can be accessed here: https://zenodo.org/records/13367815
+
 This repository contains the following data files:
 
 - Keywords_Cat.csv: category groups and the associated keyowrds
